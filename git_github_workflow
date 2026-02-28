@@ -1,0 +1,25 @@
+        BRIEF SUMMARY OF GIT WORKFLOW
+
+1 clone repo (git clone (url)
+
+2 cd into cloned repo 
+
+3 check current branch create your safe branch “git checkout -b branch name”
+-creates new branch
+-moves in it along content of main
+
+4 Make any change 
+
+5 git status to see change in local working directory
+
+6 git add “filename” …NOW IN STAGE AREA
+
+7 git commit -m “ Message”. …NOW IN REPO
+
+8 git push -u origin clone.me ..creates a new remote branch clone_practice an push there even though it will still push to origin from which we cloned from 
+
+
+STEP 2 — Merge Into Main (Professional Way)
+You DO NOT push directly to main.
+Instead:
+1️⃣ Go to GitHub 2️⃣ Click Compare & Pull Request 3️⃣ Base branch: main 4️⃣ Compare branch: clone.me 5️⃣ Create Pull Request 6️⃣ Merge Pull Request
