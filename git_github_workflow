@@ -23,3 +23,7 @@ STEP 2 — Merge Into Main (Professional Way)
 You DO NOT push directly to main.
 Instead:
 1️⃣ Go to GitHub 2️⃣ Click Compare & Pull Request 3️⃣ Base branch: main 4️⃣ Compare branch: clone.me 5️⃣ Create Pull Request 6️⃣ Merge Pull Request
+
+1. After this stage in the clone process go back to terminal and checkout to your master or main branch 
+
+2. In master run git pull (you want you local master to match main) 
