@@ -26,4 +26,6 @@ Instead:
 
 1. After this stage in the clone process go back to terminal and checkout to your master or main branch 
 
-2. In master run git pull (you want your github updated branch content matching  local master branch or production branch) +++-
+2. In master run git pull (you want your github updated branch content matching  local master branch or production branch) 
+
+This change has been made on the master branch only to see how edits  and working on multiple bracnhes works.
